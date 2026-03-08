@@ -119,78 +119,76 @@ pip install ultralytics
 pip install opencv-python
 pip install torch
 pip install numpy
-
+```
 ## ▶ Running the Project
 
 ### Clone the repository
 ```bash
 git clone https://github.com/yourusername/human-detection-disaster-drone.git
-
+```
 ### Navigate to project folder
 
 ```bash
 cd human-detection-disaster-drone
-
+```
 ### Run the program
 ```bash
 python human_detection.py
-
-📊 Example Output
+```
+## 📊 Example Output
 
 The system displays:
 
-📦 Bounding box around detected human
+- 📦 **Bounding box around detected human**
+- 📏 **Estimated distance from drone**
+- 📍 **Projected GPS coordinates**
+- 👁 **Detection status**
 
-📏 Estimated distance from drone
-
-📍 Projected GPS coordinates
-
-👁 Detection status
-
-Example
+### Example
+```
 HUMAN DETECTED
 Distance: 8.45m
 GPS: 12.971620, 77.594580
-🌍 Project Applications
+```
 
-🚑 Disaster rescue operations
+---
 
-🌊 Flood victim detection
+## 🌍 Project Applications
 
-🌍 Earthquake search and rescue
+- 🚑 Disaster rescue operations  
+- 🌊 Flood victim detection  
+- 🌍 Earthquake search and rescue  
+- ⛰ Landslide survivor detection  
+- 🌳 Forest rescue operations  
+- 📦 Emergency supply delivery  
 
-⛰ Landslide survivor detection
+---
 
-🌳 Forest rescue operations
+## 🚀 Future Improvements
 
-📦 Emergency supply delivery
+- 🌡 Thermal camera integration  
+- 📡 Real GPS integration from drone  
+- 🤖 Autonomous drone navigation  
+- 👥 Multiple victim detection tracking  
+- 🛰 Integration with rescue command systems  
+- 🧠 AI-based priority detection  
 
-🚀 Future Improvements
+---
 
-🌡 Thermal camera integration
+## 🌟 Research Impact
 
-📡 Real GPS integration from drone
+This project demonstrates how **⚡ Edge AI** and **👁 Computer Vision** can assist humanitarian rescue missions by enabling **rapid detection of survivors in disaster zones**.
 
-🤖 Autonomous drone navigation
+Deploying such systems can **reduce rescue response time and increase survival chances in remote and inaccessible areas.**
 
-👥 Multiple victim detection tracking
+---
 
-🛰 Integration with rescue command systems
+## 👨‍💻 Author
 
-🧠 AI-based priority detection
-
-🌟 Research Impact
-
-This project demonstrates how ⚡ Edge AI and 👁 Computer Vision can assist humanitarian rescue missions by enabling rapid detection of survivors in disaster zones.
-
-Deploying such systems can reduce rescue response time and increase survival chances in remote and inaccessible areas.
-
-👨‍💻 Author
-
-Subhankar Nandi
+**Subhankar Nandi**  
 🎓 B.Tech CSE (AI & ML)
 
-💡 Machine Learning
-👁 Computer Vision
-🤖 Robotics
+💡 Machine Learning  
+👁 Computer Vision  
+🤖 Robotics  
 🌍 Disaster AI Systems
