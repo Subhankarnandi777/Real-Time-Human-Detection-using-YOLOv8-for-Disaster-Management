@@ -27,7 +27,7 @@ The system combines **🤖 Computer Vision, Edge AI, and Geolocation Estimation*
 
 # 🏗 System Architecture
 
-![System Architecture](system_architecture.png)
+![System Architecture](System_architecture.png)
 
 ---
 
