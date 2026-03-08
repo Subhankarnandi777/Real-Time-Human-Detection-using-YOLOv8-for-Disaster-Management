@@ -137,6 +137,9 @@ python human_detection.py
 ```
 ## 📊 Example Output
 
+![Output1](Output1.jpeg)
+![Output2](Output2.jpeg)
+
 The system displays:
 
 - 📦 **Bounding box around detected human**
